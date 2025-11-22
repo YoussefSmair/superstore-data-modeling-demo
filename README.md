@@ -1,0 +1,2 @@
+"This project is a data-modeling practice exercise based on the Sample Superstore dataset. The goal of the project was not to create a full Power BI dashboard, but to focus specifically on preparing the data, applying transformations, fixing data quality issues, and building accurate relationships between tables.
+The project demonstrates the essential steps required before creating any reports or visuals, making it useful for learning and improving Power BI data-modeling skills."
